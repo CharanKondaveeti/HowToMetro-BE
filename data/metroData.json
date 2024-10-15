@@ -431,7 +431,7 @@
         "station_name": "MG Bus Station",
         "station_number": 20,
         "facilities": [],
-        "connections": [],
+        "connections": ["red", { "red": 20, "green": 9 }],
         "coordinates": {
           "latitude": 17.380206245689582,
           "longitude": 78.48695365964349
@@ -596,7 +596,7 @@
         "station_name": "MG Bus Station",
         "station_number": 9,
         "facilities": [],
-        "connections": [],
+        "connections": ["red", { "red": 20, "green": 9 }],
         "coordinates": {
           "latitude": 17.380073138698183,
           "longitude": 78.48641721782361
