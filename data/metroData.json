@@ -94,7 +94,7 @@
         "station_name": "Parade Ground",
         "station_number": 9,
         "facilities": ["Interchange"],
-        "connections": ["green", { "green": 1, "blue": 9 }],
+        "connections": ["green"],
         "coordinates": {
           "latitude": 17.444714530232176,
           "longitude": 78.49833331528694
@@ -149,7 +149,7 @@
         "station_name": "Ameerpet",
         "station_number": 14,
         "facilities": ["Interchange"],
-        "connections": ["red", { "blue": 11, "red": 14 }],
+        "connections": ["red"],
         "coordinates": {
           "latitude": 17.597631282561604,
           "longitude": 78.48724262945052
@@ -374,7 +374,7 @@
         "station_name": "Ameerpet",
         "station_number": 11,
         "facilities": ["Interchange"],
-        "connections": ["blue", { "blue": 11, "red": 14 }],
+        "connections": ["blue"],
         "coordinates": {
           "latitude": 17.59750856140409,
           "longitude": 78.48745720618226
@@ -473,7 +473,7 @@
         "station_name": "MG Bus Station",
         "station_number": 20,
         "facilities": [],
-        "connections": ["red", { "red": 20, "green": 9 }],
+        "connections": ["green"],
         "coordinates": {
           "latitude": 17.380206245689582,
           "longitude": 78.48695365964349
@@ -566,7 +566,7 @@
         "station_name": "Parade Ground",
         "station_number": 1,
         "facilities": ["Interchange"],
-        "connections": ["blue", { "blue": 9, "green": 1 }],
+        "connections": ["blue"],
         "coordinates": {
           "latitude": 17.44336520870826,
           "longitude": 78.49742823975532
@@ -654,7 +654,7 @@
         "station_name": "MG Bus Station",
         "station_number": 9,
         "facilities": [],
-        "connections": ["red", { "red": 20, "green": 9 }],
+        "connections": ["red"],
         "coordinates": {
           "latitude": 17.380073138698183,
           "longitude": 78.48641721782361
